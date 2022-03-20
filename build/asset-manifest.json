@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e6f5cf0.css",
-    "main.js": "/static/js/main.68e87156.js",
-    "static/js/787.018c54b5.chunk.js": "/static/js/787.018c54b5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.3e6f5cf0.css.map": "/static/css/main.3e6f5cf0.css.map",
-    "main.68e87156.js.map": "/static/js/main.68e87156.js.map",
-    "787.018c54b5.chunk.js.map": "/static/js/787.018c54b5.chunk.js.map"
+    "main.css": "/escrdia/static/css/main.3e6f5cf0.css",
+    "main.js": "/escrdia/static/js/main.9500f1c1.js",
+    "static/js/787.018c54b5.chunk.js": "/escrdia/static/js/787.018c54b5.chunk.js",
+    "static/media/logo.svg": "/escrdia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/escrdia/index.html",
+    "main.3e6f5cf0.css.map": "/escrdia/static/css/main.3e6f5cf0.css.map",
+    "main.9500f1c1.js.map": "/escrdia/static/js/main.9500f1c1.js.map",
+    "787.018c54b5.chunk.js.map": "/escrdia/static/js/787.018c54b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e6f5cf0.css",
-    "static/js/main.68e87156.js"
+    "static/js/main.9500f1c1.js"
   ]
 }
