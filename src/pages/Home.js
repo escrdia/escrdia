@@ -25,7 +25,7 @@ const Styles = styled.div`
     height: 0.2rem;
     max-width: 3.25rem;
     margin: 1.5rem auto;
-    background-color: #f4623a;
+    background-color: #bd9479;
     opacity: 1;
   }
 
@@ -40,7 +40,7 @@ const Styles = styled.div`
 
   .btn-primary {
     color: #fff;
-    background-color: #f4623a;
+    background-color: #bd9479;
   }
 `;
 
@@ -59,7 +59,7 @@ function Home() {
             </div>
             <div className="col-lg-8 align-self-baseline">
               <p className="text-white-75 mb-5"></p>
-              <a className="btn btn-primary btn-xl" href="projetos">
+              <a className="btn btn-primary btn-xl" href="#/projetos">
                 Descubra
               </a>
             </div>
