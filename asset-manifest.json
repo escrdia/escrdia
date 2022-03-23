@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/escrdia/static/css/main.f559d868.css",
-    "main.js": "/escrdia/static/js/main.d6bb9329.js",
-    "static/js/787.018c54b5.chunk.js": "/escrdia/static/js/787.018c54b5.chunk.js",
-    "static/media/portfolio.pdf": "/escrdia/static/media/portfolio.e46f4fee71e49e210580.pdf",
-    "static/media/renderCena8Denoiser.png": "/escrdia/static/media/renderCena8Denoiser.90d9736e113bf1cbdab2.png",
-    "static/media/predio.png": "/escrdia/static/media/predio.468098bb67fefdf76a88.png",
-    "static/media/diadeLogoGrande.jpg": "/escrdia/static/media/diadeLogoGrande.4b662b5b9d251ba093a7.jpg",
-    "index.html": "/escrdia/index.html",
-    "main.f559d868.css.map": "/escrdia/static/css/main.f559d868.css.map",
-    "main.d6bb9329.js.map": "/escrdia/static/js/main.d6bb9329.js.map",
-    "787.018c54b5.chunk.js.map": "/escrdia/static/js/787.018c54b5.chunk.js.map"
+    "main.css": "/escritoriodiade.com.br/static/css/main.f559d868.css",
+    "main.js": "/escritoriodiade.com.br/static/js/main.0698eba6.js",
+    "static/js/787.018c54b5.chunk.js": "/escritoriodiade.com.br/static/js/787.018c54b5.chunk.js",
+    "static/media/portfolio.pdf": "/escritoriodiade.com.br/static/media/portfolio.e46f4fee71e49e210580.pdf",
+    "static/media/renderCena8Denoiser.png": "/escritoriodiade.com.br/static/media/renderCena8Denoiser.90d9736e113bf1cbdab2.png",
+    "static/media/predio.png": "/escritoriodiade.com.br/static/media/predio.468098bb67fefdf76a88.png",
+    "static/media/diadeLogoGrande.jpg": "/escritoriodiade.com.br/static/media/diadeLogoGrande.4b662b5b9d251ba093a7.jpg",
+    "index.html": "/escritoriodiade.com.br/index.html",
+    "main.f559d868.css.map": "/escritoriodiade.com.br/static/css/main.f559d868.css.map",
+    "main.0698eba6.js.map": "/escritoriodiade.com.br/static/js/main.0698eba6.js.map",
+    "787.018c54b5.chunk.js.map": "/escritoriodiade.com.br/static/js/787.018c54b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f559d868.css",
-    "static/js/main.d6bb9329.js"
+    "static/js/main.0698eba6.js"
   ]
 }
